@@ -19,7 +19,7 @@
     "@gitbeaker/rest": "^39.16.0",
     "simple-git": "^3.20.0"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "semantic-release": "semantic-release"
   },

@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/compare/v1.0.3...v1.0.4) (2023-09-29)
+
+
+### Bug Fixes
+
+* :truck: renamed index.js to index.cjs ([73830f3](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/commit/73830f3a4b95792c175ed15ff20d329485bc2b95))
+
 ## [1.0.3](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/compare/v1.0.2...v1.0.3) (2023-09-29)
 
 

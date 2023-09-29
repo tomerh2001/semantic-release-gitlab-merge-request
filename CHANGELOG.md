@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/compare/v1.0.0...v1.0.1) (2023-09-29)
+
+
+### Bug Fixes
+
+* :zap: fixed a bug that prevented CI from running ([a60dcce](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/commit/a60dcce35c6309eb1694398663970d610b0967d7))
+
 # 1.0.0 (2023-09-29)
 
 

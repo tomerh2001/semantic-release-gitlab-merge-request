@@ -1,3 +1,15 @@
+## [1.0.5](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/compare/v1.0.4...v1.0.5) (2023-09-29)
+
+
+### Bug Fixes
+
+* :zap: reverted last index back to index.js and instead changed package.json ([9f64e31](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/commit/9f64e31f28165496870355dd07aea44338aaedee))
+
+
+### Reverts
+
+* :construction_worker: reverted last index back to index.js and instead changed package.json ([b022a4b](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/commit/b022a4b8a30142599a7b407d8ef274f68363da31))
+
 ## [1.0.4](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/compare/v1.0.3...v1.0.4) (2023-09-29)
 
 

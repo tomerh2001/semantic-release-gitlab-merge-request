@@ -1,0 +1,15 @@
+{
+  "name": "semantic-release-gitlab-merge-request",
+  "module": "publish.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@gitbeaker/rest": "^39.16.0",
+    "simple-git": "^3.20.0"
+  }
+}

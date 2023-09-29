@@ -1,7 +1,5 @@
 {
   "name": "semantic-release-gitlab-merge-request",
-  "module": "publish.js",
-  "type": "module",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^11.0.0",

@@ -3,6 +3,11 @@
   "module": "publish.js",
   "type": "module",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^11.0.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^11.0.0",
+    "@semantic-release/release-notes-generator": "^12.0.0",
     "bun-types": "latest",
     "semantic-release": "^22.0.5"
   },

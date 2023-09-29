@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/compare/v1.0.2...v1.0.3) (2023-09-29)
+
+
+### Bug Fixes
+
+* renamed publish.js to index.js ([26ff28c](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/commit/26ff28c13af5aa839d335951a2a6551d2c4903f3))
+
 ## [1.0.2](https://github.com/tomerh2001/semantic-release-gitlab-merge-request/compare/v1.0.1...v1.0.2) (2023-09-29)
 
 

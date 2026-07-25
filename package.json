@@ -1,7 +1,7 @@
 {
   "name": "semantic-release-gitlab-merge-request",
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/changelog": "^7.0.0",
     "@semantic-release/commit-analyzer": "^11.0.0",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^9.2.1",
